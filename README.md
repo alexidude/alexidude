@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi 👋 My name is Alexander Chistenko
+====================================
 
-<!--
-**alexidude/alexidude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA engineer
+------------------
 
-Here are some ideas to get you started:
+I am an aspiring QA, would be happy to intern and/or get a job in a Junior position
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Omsk, Russia
+* ✉️  You can contact me at [alexidude2@gmail.com](mailto:alexidude2@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects to test them out
+
+### Skills
+
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/alexidude" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> 
+
+### Portfolio
+
+
+
+<div width="100%" align="center"><a href="https://github.com/alexidude/Online-store-model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexidude&repo=Online-store-model&title_color=000000&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
