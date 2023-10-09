@@ -26,4 +26,4 @@ I am an aspiring QA engineer, would be happy to intern and/or get a job in a Jun
 
 
 
-<div width="100%" align="center"><a href="https://github.com/alexidude/Online-store-model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexidude&repo=Online-store-model&title_color=000000&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/alexidude/Online-store-model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexidude&repo=Online-store-model&title_color=000000&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/alexidude/qa-engineer-project-85" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alexidude&repo=qa-engineer-project-85&title_color=000000&text_color=ffffff&icon_color=ffffff&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
