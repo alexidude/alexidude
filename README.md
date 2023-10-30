@@ -14,7 +14,12 @@ I am an aspiring QA engineer, would be happy to intern and/or get a job in a Jun
  ------------------
    - [Habr Career](https://career.habr.com/alexidude)
    - [HH.ru](https://omsk.hh.ru/resume/db91cfb5ff0c5350cb0039ed1f73476a516b39)
-
+     
+My portfolio    
+ ------------------
+ * [Online-store-model](https://github.com/alexidude/Online-store-model)
+ * [Codebattle-game-project](https://github.com/alexidude/Codebattle-game-project)
+   
 Skills
 ------------------
 <p align="left">
@@ -25,12 +30,3 @@ Skills
 Socials
 ------------------
 <p align="left"> <a href="https://www.linkedin.com/in/alexidude" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-Portfolio
-------------------
-<a href="https://github.com/alexidude/Online-store-model">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexidude&repo=Online-store-model&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  </a>
-  <a href="https://github.com/alexidude/Codebattle-open-source-game-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexidude&repo=Codebattle-open-source-game-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
