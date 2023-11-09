@@ -17,8 +17,14 @@ I am an aspiring QA engineer, would be happy to intern and/or get a job in a Jun
      
 My portfolio    
  ------------------
+ **Projects**
  * [Online-store-model](https://github.com/alexidude/Online-store-model)
  * [Codebattle-game-project](https://github.com/alexidude/Codebattle-game-project)
+   
+**Test task**
+   * [Test-task-tutu.ru-QA-engineer](https://github.com/alexidude/Test-task-tutu.ru-QA-engineer)
+   * [Test-task-Cynteka-junior-QA](https://github.com/alexidude/Test-task-Cynteka-junior-QA)
+   * [Test-task-Krit-QA-engineer](https://github.com/alexidude/Test-task-Krit-QA-engineer)
    
 Skills
 ------------------
