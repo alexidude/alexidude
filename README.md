@@ -25,6 +25,8 @@ My portfolio
    * [Test-task-tutu.ru-QA-engineer](https://github.com/alexidude/Test-task-tutu.ru-QA-engineer)
    * [Test-task-Cynteka-junior-QA](https://github.com/alexidude/Test-task-Cynteka-junior-QA)
    * [Test-task-Krit-QA-engineer](https://github.com/alexidude/Test-task-Krit-QA-engineer)
+
+[**Pull Requests and Issues**](https://github.com/search?q=author%3Aalexidude&type=issues&s=created&o=desc)
    
 Skills
 ------------------
