@@ -16,7 +16,7 @@ I am an aspiring QA engineer, would be happy to intern and/or get a job in a Jun
    - [HH.ru](https://omsk.hh.ru/resume/db91cfb5ff0c5350cb0039ed1f73476a516b39)
      
 ## My portfolio    
- ------------------
+
  ## Projects
  * [Online-store-model](https://github.com/alexidude/Online-store-model)
  * [Codebattle-game-project](https://github.com/alexidude/Codebattle-game-project)
