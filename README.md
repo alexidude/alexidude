@@ -1,6 +1,5 @@
  # Hi 👋 My name is Alexander Chistenko
-====================================
-
+------------------
 ## Junior QA engineer
 ------------------
 
