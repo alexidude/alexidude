@@ -1,9 +1,7 @@
  # Hi 👋 My name is Alexander Chistenko
 ------------------
-## Junior QA engineer
+## QA engineer
 ------------------
-
-I am an aspiring QA engineer, would be happy to intern and/or get a job in a Junior position
 
 * 🌍  I'm based in Omsk, Russia
 * ✉️  You can contact me at [alexidude2@gmail.com](mailto:alexidude2@gmail.com)
